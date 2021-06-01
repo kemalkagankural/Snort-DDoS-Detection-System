@@ -36,7 +36,7 @@ A DDoS assault is categorized into a few sorts, but basically there are 3 sorts 
 * Any business or organization that relies on providing online service
 
 # Implementing DDoS Attack
-[DDos Attack Drive Link](https://disk.yandex.com.tr/i/2vGNSqX_KAuUhA)
+[DDos Attack Drive Link](https://disk.yandex.com.tr/i/2vGNSqX_KAuUhA) 
 
 # DDoS Attack Prevention
 DDoS assault is troublesome to recognize and halt there are a few realities taken into thought such as: 
